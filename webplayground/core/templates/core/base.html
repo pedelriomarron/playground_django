@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+        <title>{% block title %}{% endblock %}</title>
+        {% include "core/_shared/head.html" %}
+  </head>
+  <body>
+      <!-- Navegación -->
+      {% include "core/_shared/nav.html" %}
+       <!-- Contenido -->
+      {% block content %}{% endblock %}
+        <!-- Footer -->
+      {% include "core/_shared/footer.html" %}
+      <!-- Javascript -->
+      {% include "core/_shared/scripts.html" %}
+  </body>
+</html>

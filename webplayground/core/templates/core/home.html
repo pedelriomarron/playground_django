@@ -1,0 +1,19 @@
+{% extends 'core/base.html' %}
+{% load static %}
+{% block title %}Inicio{% endblock %}
+{% block content %}
+{% load i18n%}
+<div class="container">
+  <div style="padding-top:50px; text-align:center;">
+    <h1>{{ title}}</h1>
+    <p> {% trans "translation" %} </p>
+    <p class="lead">
+      {%blocktrans%}CBV, autenticación, registros, perfiles y más{% endblocktrans%}
+    </p>
+
+    <p class="lead">
+      {%blocktrans context "sitting"%}al bdddanco{% endblocktrans%}
+    </p>
+  </div>
+</div>
+{% endblock %}

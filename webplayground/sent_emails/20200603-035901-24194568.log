@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: =?utf-8?q?Contrase=C3=B1a_restablecida_en_localhost=3A8000?=
+From: webmaster@localhost
+To: pedelriomarron@gmail.com
+Date: Wed, 03 Jun 2020 01:59:01 -0000
+Message-ID: <159114954148.10768.9959045144387380404@DESKTOP-3KOS6LH>
+
+
+Ha recibido este correo electrónico porque ha solicitado restablecer la contraseña para su cuenta en localhost:8000.
+
+Por favor, vaya a la página siguiente y escoja una nueva contraseña.
+
+http://localhost:8000/accounts/reset/NA/5h1-6087f2012138ecce558a/
+
+Your username, in case you’ve forgotten: p1
+
+¡Gracias por usar nuestro sitio!
+
+El equipo de localhost:8000
+
+
+
+-------------------------------------------------------------------------------
